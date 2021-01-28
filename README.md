@@ -10,8 +10,7 @@
 
 
 ### My Github
-[![Adithya's GitHub stats](https://github-readme-stats.vercel.app/api?username=The-ML-Hero&hide=stars&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
+<img src = "https://github-readme-stats.the-ml-hero.vercel.app/api?username=The-ML-Hero">
 
 ### My Favorite Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=The-ML-Hero)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=The-ML-Hero)](https://github.com/The-ML-Hero/github-readme-stats)
