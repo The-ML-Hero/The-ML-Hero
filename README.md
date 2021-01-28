@@ -20,7 +20,7 @@
 <h1 align="center">Hi 👋, I'm A.Adithya Sherwood</h1>
 <h3 align="center">I like Deep Learning.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=the-ml-hero&label=Profile%20views&color=0e75b6&style=flat" alt="the-ml-hero" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=the-ml-hero&label=Profile%20views&color=0e75b6&style=flat-square" alt="the-ml-hero" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=the-ml-hero" alt="the-ml-hero" /></a> </p>
 
