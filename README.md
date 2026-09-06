@@ -1,7 +1,7 @@
 <!---
 ### Hello there, I'm A.Adithya Sherwood 👋
  
-- 🔭 I’m currently working on *AI for CShape canal segmentation and detection in Dental CBCT scans*
+- 🔭 I worked on on *AI for CShape canal segmentation and detection in Dental CBCT scans*
 
 - 🌱 I’m currently learning (and always learning) : Deep learning, Machine learning,Computer vision, Image processing
 
@@ -18,6 +18,7 @@
 
 --->
 <h1 align="center">Hi 👋, I'm A.Adithya Sherwood</h1>
+<h1 align="center"><a href="https://adithyasherwood.vercel.app">Portfolio 2026</a></h1>
 <h3 align="center">I like Deep Learning.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=the-ml-hero&label=Profile%20views&color=0e75b6&style=flat-square" alt="the-ml-hero" /> </p>
