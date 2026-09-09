@@ -25,7 +25,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=the-ml-hero" alt="the-ml-hero" /></a> </p>
 
-- 🔭 I’m currently working on **AI for CShape canal segmentation and detection in Dental CBCT scans**
+- 🔭 I did research work on **AI for CShape canal segmentation and detection in Dental CBCT scans**
 
 - 🌱 I’m currently learning **Deep Learning and Computer Vision**
 
